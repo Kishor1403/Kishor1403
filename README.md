@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's Kishor Matsagar
 
 <!--
 **Kishor1403/Kishor1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
->>📫 How to reach me: www.linkedin.com/in/kishor-matsagar
+>>📫 Connect with me : www.linkedin.com/in/kishor-matsagar
 
- >>
