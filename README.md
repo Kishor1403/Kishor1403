@@ -1,64 +1,17 @@
-# Hi, I'm Kishor Matsagar 👋
+### Enjoying the Art of Data Science & Engineering Intelligent AI
 
-### Data Scientist & AI Engineer
+My interests lie in Data Science, Machine Learning, and AI Engineering, with a focus on integrating AI into systems to make them more intelligent, adaptive, and capable of solving real-world problems.
 
-I work at the intersection of **Data Science, Machine Learning, and AI Engineering**, building data-driven solutions and exploring how LLMs can solve real-world problems.
-
-My interests include predictive modeling, analytics, intelligent AI applications, and engineering reliable solutions from data to deployment.
-
-- 🔬 Interested in Data Science, Machine Learning, and applied AI
-- 🤖 Exploring LLMs, prompt engineering, RAG, and AI agents
-- 📊 Working with Python, SQL, analytics, and data visualization
-- 🛠️ Focused on building practical, scalable, and production-oriented solutions
-- 📚 Always learning, experimenting, and improving my engineering skills
-
+- Exploring Data Science, Machine Learning, and predictive modeling
+- Integrating LLMs and AI agents into applications to build intelligent systems
+- Building AI-powered solutions that connect data, models, APIs, and business workflows
+- Transforming data into actionable insights through analytics and visualization
+- Focused on engineering reliable, scalable, and production-ready AI solutions
 ---
 
-## 🛠️ Technical Skills
 
-### 🧠 Data Science & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,jupyter,tensorflow,pytorch" alt="Python, R, Jupyter, TensorFlow and PyTorch" />
-</p>
-
-`Pandas` · `NumPy` · `XGBoost` · `CatBoost` · `Time-Series Forecasting` · `Statistical Analysis` · `Feature Engineering`
-
-### 🤖 AI & LLM Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" alt="Python, FastAPI and Flask" />
-</p>
-
-`LLM Applications` · `Prompt Engineering` · `AI Agents` · `RAG` · `OpenAI API` · `Embeddings` · `API Integration` · `Streamlit`
-
-### 📊 Data Analytics & Business Intelligence
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
-</p>
-
-`SQL` · `Power BI` · `DAX` · `Data Modeling` · `Data Visualization` · `Excel` · `Tableau`
-
-### ⚙️ Data Engineering & Big Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=apache,hadoop,spark,kafka,airflow" alt="Apache ecosystem, Hadoop, Spark, Kafka and Airflow" />
-</p>
-
-`ETL/ELT` · `PySpark` · `Databricks` · `Delta Lake` · `Data Pipelines` · `Data Transformation`
-
-### 💻 Programming & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,bootstrap,git,github,vscode" alt="Programming languages and development tools" />
-</p>
-
-`REST APIs` · `Git` · `GitHub` · `Jupyter Notebook`
-
----
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img
@@ -81,27 +34,3 @@ My interests include predictive modeling, analytics, intelligent AI applications
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/kishor-matsagar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/kishor1403" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kpma4532" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Turning data into insights and ideas into intelligent solutions.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishor1403&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
